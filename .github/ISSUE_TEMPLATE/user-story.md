@@ -20,5 +20,8 @@ assignees: ''
 # testing and viability 
 -Gerkin Format  
 ***
+**Given**
+**When**
+**Then**
 
 ***
