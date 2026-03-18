@@ -11,13 +11,13 @@ assignees: ''
 **I need** [Feature]
 **so that** [benifit]
 
-*Assumptions&Prerequisites
+# Assumptions&Prerequisites
 ***
 
 
 ***
 
-*testing and viability 
+# testing and viability 
 -Gerkin Format  
 ***
 
